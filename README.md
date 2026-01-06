@@ -18,8 +18,8 @@ Yeah, that's basically it.
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=2A2A2A)](https://t.me/sweetespreso)
-[![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=2A2A2A)](https://www.figma.com/@YourFigmaProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=2A2A2A)](https://twitter.com/YourTwitterHandle)
+[![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=2A2A2A)](https://www.figma.com/@mahdimollanuri)
+[![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=2A2A2A)](https://twitter.com/)
 </div>
 
 
