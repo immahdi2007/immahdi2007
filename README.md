@@ -1,7 +1,7 @@
 <div align="center"> 
 
 <h1>
-  My Skills
+ 📍My Skills
 </h1>
 
 
@@ -10,7 +10,7 @@
 </div>
 <br><br><br>
 
-<h1>My Accounts</h1>
+<h1>🌐 My Accounts</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=2A2A2A)](https://t.me/sweetespreso)
