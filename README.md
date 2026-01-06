@@ -6,15 +6,14 @@ Hi, I'm Mahdi Malanouri. I'm 18 years old and
 I do a bit of Android programming and I also have some design sense. Before I got into programming, I was interested in design.  
 I enjoy using Linux and I know my way around it a little :)  
 Yeah, that's basically it.
+ <br><hr><br>
 <h1>
  📍My Skills
 </h1>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=5&theme=light" width="400" />
 </div>
-<br>
-<hr>
-<br>
+<br><hr><br>
 <h1>🌐 My Accounts</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
