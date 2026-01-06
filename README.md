@@ -1,5 +1,14 @@
 <div align="center"> 
 
+Hi there! 👋 I'm **Mahdi Malanouri**, an 18-year-old tech enthusiast who lives and breathes computers. 💻  
+
+I started my journey with **design**, exploring colors, layouts, and creativity, and eventually fell in love with **Android development**. Now I enjoy crafting apps while keeping an eye on beautiful design and user experience. 🎨✨  
+
+When I'm not coding or designing, you'll probably find me **learning new tech**, exploring Linux, or just geeking out over cool tools and gadgets. 🚀  
+
+Always curious, always building, and always trying to make things **a little cooler than yesterday**. 😎
+
+ 
 <h1>
  📍My Skills
 </h1>
