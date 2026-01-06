@@ -2,7 +2,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=2A2A2A)](https://t.me/sweetespreso)
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=2A2A2A)](https://t.me/sweetespreso)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/YourProfile)
+
 
 <!--
 **immahdi2007/immahdi2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
