@@ -2,7 +2,11 @@
 
 ![Description](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-Hi, I'm Mahdi Malanouri. I'm 18 years old and I love computers.  
+![Uploading Desktop - 2.png…]()
+
+
+Hi, I'm Mahdi Malanouri. I'm 18 years old and
+ I love computers.  
 
 I do a bit of Android programming and I also have some design sense. Before I got into programming, I was interested in design.  
 
