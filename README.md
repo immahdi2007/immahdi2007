@@ -1,14 +1,12 @@
 <div align="center"> 
 
-Hi there! I'm **Mahdi Malanouri**, an 18-year-old tech enthusiast who lives and breathes computers.  
+Hi, I'm Mahdi Malanouri. I'm 18 years old and I love computers.  
 
-I started my journey with **design**, exploring colors, layouts, and creativity, and eventually fell in love with **Android development**. Now I enjoy crafting apps while keeping an eye on beautiful design and user experience.  
+I do a bit of Android programming and I also have some design sense. Before I got into programming, I was interested in design.  
 
-When I'm not coding or designing, you'll probably find me **learning new tech**, exploring Linux, or diving into cool tools and gadgets.  
+I enjoy using Linux and I know my way around it a little :)  
 
-Always curious, always building, and always trying to make things a little better than yesterday.
-
-
+Yeah, that's basically it.
  
 <h1>
  📍My Skills
