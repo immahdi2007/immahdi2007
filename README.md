@@ -1,9 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=12)](https://skillicons.dev)
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
-
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=2A2A2A)](https://t.me/YourUsername)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=2A2A2A)](https://linkedin.com/in/YourProfile)
 <!--
 **immahdi2007/immahdi2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
