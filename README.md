@@ -3,11 +3,8 @@
 <br><br>
 Hi, I'm Mahdi Malanouri. I'm 18 years old and
  I love computers.  
-
 I do a bit of Android programming and I also have some design sense. Before I got into programming, I was interested in design.  
-
 I enjoy using Linux and I know my way around it a little :)  
-
 Yeah, that's basically it.
  
 <h1>
