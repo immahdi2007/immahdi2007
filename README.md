@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=2A2A2A)](https://t.me/sweetespreso)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Adobe&logoColor=FFFFFF)](https://linkedin.com/in/YourProfile)
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
 
 
