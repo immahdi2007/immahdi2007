@@ -5,9 +5,9 @@
 </h1>
 
 
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=8" width="900" />
-
+<div align="center>
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=8&theme=light" width="900" />
+</div>
 <br><br><br>
 
 <h1>My Accounts</h1>
