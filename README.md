@@ -6,7 +6,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=12" width="600" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=12" width="900" />
 
 <br><br><br>
 
