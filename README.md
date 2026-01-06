@@ -7,7 +7,7 @@ I do a bit of Android programming and I also have some design sense. Before I go
 I enjoy using Linux and I know my way around it a little :)  
 Yeah, that's basically it.
  <br><hr><br>
-# My skills
+#My skills
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=5&theme=light" width="400" />
 </div>
