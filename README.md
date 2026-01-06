@@ -13,7 +13,7 @@ Yeah, that's basically it.
 
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=۵&theme=light" width="400" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=5&theme=light" width="400" />
 </div>
 <br><br>
 
