@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=5&theme=light" width="600" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=12&theme=light" width="900" />
 </div>
 <br><br><br>
 
