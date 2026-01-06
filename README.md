@@ -1,6 +1,7 @@
 <h1 align="center">
   My Skills
 </h1>
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=12)](https://skillicons.dev)
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
