@@ -1,7 +1,8 @@
 <div align="center"> 
-  
-  My Skills
 
+<h1>
+  My Skills
+</h1>
 
 
 
