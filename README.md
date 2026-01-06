@@ -2,7 +2,8 @@
 
 ![Description](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![Uploading Desktop - 2.png…]()
+<img width="1271" height="328" alt="Desktop - 2" src="https://github.com/user-attachments/assets/d466e9fe-02d8-4438-afc2-aace7dd3f595" />
+
 
 
 Hi, I'm Mahdi Malanouri. I'm 18 years old and
