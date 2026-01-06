@@ -12,8 +12,9 @@ Yeah, that's basically it.
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=5&theme=light" width="400" />
 </div>
- <hr>
-<br><br>
+<br>
+<hr>
+<br>
 <h1>🌐 My Accounts</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
