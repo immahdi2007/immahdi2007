@@ -1,7 +1,7 @@
 <div align="center"> 
 <img width="1271" height="328" alt="Desktop - 2" src="https://github.com/user-attachments/assets/d466e9fe-02d8-4438-afc2-aace7dd3f595" />
 <br><br>
-Hi, I'm Mahdi Malanouri. I'm 18 years old and
+Hi, I'm **Mahdi Malanouri**. I'm 18 years old and
  I love computers.  
 I do a bit of Android programming and I also have some design sense. Before I got into programming, I was interested in design.  
 I enjoy using Linux and I know my way around it a little :)  
