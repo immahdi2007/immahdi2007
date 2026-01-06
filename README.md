@@ -1,20 +1,20 @@
 <div align="center"> 
 <img width="1271" height="328" alt="Desktop - 2" src="https://github.com/user-attachments/assets/d466e9fe-02d8-4438-afc2-aace7dd3f595" />
 <br><br>
-Hi, I'm **Mahdi Malanouri**. I'm 18 years old and
+Hi, I'm <strong>Mahdi Malanouri</strong>. I'm <strong>18</strong> years old and
  I love computers.  
-I do a bit of Android programming and I also have some design sense. Before I got into programming, I was interested in design.  
-I enjoy using Linux and I know my way around it a little :)  
+I do a bit of <strong>Android</strong> programming and I also have some design sense. Before I got into programming, I was interested in <strong>design</strong>.  
+I enjoy using <strong>Linux</strong> and I know my way around it a little :)  
 Yeah, that's basically it.
 <br><br>
+ 
 <h1>📍My Skills</h1>
-<br><br>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=5&theme=light" width="400" />
 </div>
 <br><br>
+
 <h1>🌐 My Accounts</h1>
-<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2A2A2A)](https://www.instagram.com/immah_dih)
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=2A2A2A)](https://t.me/sweetespreso)
