@@ -6,7 +6,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=12&theme=light&size=64)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,linux,arch,docker,ps,ai,html,css&perline=12" width="600" />
 
 <br><br><br>
 
